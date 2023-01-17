@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/exceptions/InvalidPieceColorException.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/PieceColorUtils.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/IVec2.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/BoardState.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/PieceColor.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/KingPiece.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/Mu08_de_vera_10_2_cs_project_model.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/NullPiece.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/QueenPiece.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/RookPiece.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/BishopPiece.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/Piece.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/PawnPiece.java</file>
+            <file>file:/C:/Users/gabee/OneDrive/Desktop/main/academic/computer-science/projects/g10/q2/ex07/mu08_de_vera_10_2_cs_project_model/src/mu08_de_vera_10_2_cs_project/model/KnightPiece.java</file>
+        </group>
+    </open-files>
+</project-private>
